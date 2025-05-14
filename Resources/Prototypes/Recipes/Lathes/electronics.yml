@@ -179,6 +179,13 @@
   id: ChemDispenserMachineCircuitboard
   result: ChemDispenserMachineCircuitboard
 
+# Starlight Start
+- type: latheRecipe
+  parent: BaseGoldCircuitboardRecipe
+  id: MedDispenserMachineCircuitboard
+  result: MedDispenserMachineCircuitboard
+#Starlight End
+
 - type: latheRecipe
   parent: BaseGoldCircuitboardRecipe
   id: BiomassReclaimerMachineCircuitboard
